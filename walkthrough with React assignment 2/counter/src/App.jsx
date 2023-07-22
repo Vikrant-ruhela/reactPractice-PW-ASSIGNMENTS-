@@ -1,4 +1,4 @@
-import './App.css'
+import './Styles/App.css'
 import Counter from "./components/Counter"
 
 function App() {

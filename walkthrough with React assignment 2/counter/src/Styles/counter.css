@@ -1,0 +1,27 @@
+.count {
+    background-color: #ED2B2A;
+    height: 350px;
+    width: 400px;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+h1 {
+    font-size: 4rem;
+    font-family: cursive;
+}
+
+button {
+    padding: 12px 33px;
+    margin: 11px;
+    border: transparent;
+    border-radius: 12px;
+}
+
+button:hover {
+    background-color: green;
+}
