@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&family=Pacifico&family=Poppins:wght@200&family=Roboto&display=swap');
+
+.Signup {
+    display: flex;
+    flex-direction: column;
+    gap: 1.4rem;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+    text-align: center;
+
+}
+
+h1 {
+    font-family: 'Pacifico', cursive;
+    font-size: 2rem;
+}
+
+.signin {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+}
+
+div {
+    background-color: #eaeaea;
+    padding: 1rem;
+    border: transparent;
+    border-radius: 22px;
+}
+
+button {
+    padding: 9px 57px;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #fff;
+    background-color: #24a0ed;
+    border: transparent;
+    border-radius: 12px;
+    width: fit-content;
+}
+
+span {
+    color: #24a0ed;
+    font-weight: 600;
+}
+
+input {
+    padding: 4px 23px;
+    border: transparent;
+    border-radius: 3px;
+    width: 180px;
+    padding: 8px;
+
+}
+
+.details {
+    display: flex;
+}
+
+.click {
+    padding: 0;
+    background-color: #eaeaea;
+    color: #24a0ed;
+}
